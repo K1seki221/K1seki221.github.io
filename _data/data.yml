@@ -61,15 +61,23 @@ sidebar:
 career-profile:
   title: Research Interests
   summary: |
-    Currently, I am focusing on efficient pretrain for LLMs as well as Large Vision models.
+  My research interests are centered on efficient machine learning systems, AI for science, and the underlying mathematical foundations that support these domains. 
+  I have had the privilege of working alongside Professor Xinggang Wang and Professor Jun Sun since the onset of my first year at Huazhong University of Science and Technology. I have been fortunate to engage in some preliminary work in their direction. The initial steps I have taken and my future plans are outlined below.
+  Currently, I am working with Professor Zheng Zhang, focusing on efficient pretrain for LLMs and Large Vision models.
 education:
   title: Education
   info:
+  - degree: Ph.D in Computer Science (ongoing)
+    university: UC Santa Barbara, United States
+    
+  - degree: Exchange Student
+    university: Hiroshima University, Japan
+
   - degree: MSc in Electronic Information and Communication
-    university: Huzhong Univ. of Sci & Tech
+    university: Huzhong Univ. of Sci & Tech, China
     #time: 2011 - 2012
   - degree: BSc in Electronic Information and Communication
-    university: Huzhong Univ. of Sci & Tech
+    university: Huzhong Univ. of Sci & Tech, China
     #time: 2007 - 2011
     #details: |
     
