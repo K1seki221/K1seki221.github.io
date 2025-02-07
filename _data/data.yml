@@ -29,7 +29,7 @@ sidebar:
   #mastodon: # Please include your full Mastodon link here.
   #hackerrank: # Please provide your HackerRank username.
   #leetcode: # Please provide your LeetCode username.
-  #pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
+  pdf: "https://github.com/K1seki221/k1seki221.github.io/blob/master/assets/images/RuijieZhang_CV_UCSB.pdf" # Add a PDF link here if you want to include a PDF custom version in your resume.
 
 #  languages:
 #    title: Languages
