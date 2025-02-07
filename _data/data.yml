@@ -75,7 +75,7 @@ education:
     #time: 2011 - 2012
   - degree: BSc in Electronic Information and Communication
     university: Huzhong Univ. of Sci & Tech
-    time: 2007 - 2011
+    #time: 2007 - 2011
     #details: |
     
 
@@ -209,36 +209,19 @@ publications:
   papers:
   - title: "How Sparse Can We Prune A Deep Network: A Fundamental Limit Perspective"
     link: "https://openreview.net/pdf?id=IAAPhOLhcX"
-    #authors: Donald E. Knuth
+    authors: Qiaozhe Zhang, Ruijie Zhang, Jun Sun, Yingzhuang Liu
     #conference: Addison-Wesley, 1968
 
-  - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-    link: "#"
-    authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-    conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+  - title: "Multi-level multiple instance learning with transformer for whole slide image classification"
+    link: "https://arxiv.org/abs/2306.05029"
+    authors: Ruijie Zhang, Qiaozhe Zhang, Yingzhuang Liu, Hao Xin, Yan Liu, Xinggang Wang
+    #conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
-  - title: A syntax directed compiler for Algol 60
-    link: "#"
-    authors: Edgar T. Irons
-    conference: "Comm. ACM 4 (1961), 51–55"
+  - title: "A Range-Null Space Decomposition Approach for Fast and Flexible Spectral Compressive Imaging"
+    link: "https://arxiv.org/abs/2305.09746"
+    authors: Junyu Wang, Shijie Wang, Ruijie Zhang, Zengqiang Zheng, Wenyu Liu, Xinggang Wang
+    #conference: "Comm. ACM 4 (1961), 51–55"
 
-recommendations:
-  title: Recommendations
-  list:
-  - person: Yareli Perez
-    email: perezyareli@example.com
-    phone: 012 345 6789
-    role: General Director at example.com
-    recommendation: |
-      Alan Doe is a super employee!
-  - person: Lara Henderson
-    email: larah@example.com
-    phone: 012 345 6789
-    role: General Director at example.com
-    recommendation: |
-      I would like to work with Alan Doe again!
-
-      He is a great employee!
 
 skills:
   title: Skills &amp; Proficiency
