@@ -15,47 +15,47 @@ sidebar:
   # Sidebar links
   email: ruijiezhang@ucsb.edu
   timezone: America/Los Angeles # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center # Include the full website URL, including "http://" or "https://".
-  linkedin: alandoe
-  xing: alandoe
-  github: jekyll
-  telegram: # add your nickname without '@' sign
-  gitlab:
-  bitbucket:
-  bluesky: '@jekyllrb.bsky.social' # Specify your full Bluesky handle
-  twitter: '@jekyllrb'
-  stack-overflow: # Number/Username, e.g. 123456/alandoe
-  codewars:
-  goodreads: # Number-Username, e.g. 123456-alandoe
-  mastodon: # Please include your full Mastodon link here.
-  hackerrank: # Please provide your HackerRank username.
-  leetcode: # Please provide your LeetCode username.
-  pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
+  #linkedin: alandoe
+  #xing: alandoe
+  #github: jekyll
+  #telegram: # add your nickname without '@' sign
+  #gitlab:
+  #bitbucket:
+  #bluesky: '@jekyllrb.bsky.social' # Specify your full Bluesky handle
+  #twitter: '@jekyllrb'
+  #stack-overflow: # Number/Username, e.g. 123456/alandoe
+  #codewars:
+  #goodreads: # Number-Username, e.g. 123456-alandoe
+  #mastodon: # Please include your full Mastodon link here.
+  #hackerrank: # Please provide your HackerRank username.
+  #leetcode: # Please provide your LeetCode username.
+  #pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
 
-  languages:
-    title: Languages
-    info:
-    - idiom: English
-      level: Native
+#  languages:
+#    title: Languages
+#    info:
+#    - idiom: English
+#      level: Native
 
-    - idiom: French
-      level: Professional
+#    - idiom: French
+#      level: Professional
 
-    - idiom: Spanish
-      level: Professional
+#   - idiom: Spanish
+#      level: Professional
 
-  interests:
-    title: Interests
-    info:
-    - item: Climbing
-      link:
-
-
-    - item: Snowboarding
-      link:
+#  interests:
+#    title: Interests
+#    info:
+ #   - item: Climbing
+ #     link:
 
 
-    - item: Cooking
-      link:
+  #  - item: Snowboarding
+   #   link:
+
+
+    #- item: Cooking
+     # link:
 
 
 career-profile:
@@ -70,28 +70,14 @@ career-profile:
 education:
   title: Education
   info:
-  - degree: MSc in Computer Science
-    university: University of London
-    time: 2011 - 2012
-    details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
-  - degree: BSc in Applied Mathematics
-    university: Bristol University
+  - degree: MSc in Electronic Information and Communication
+    university: Huzhong Univ. of Sci & Tech
+    #time: 2011 - 2012
+  - degree: BSc in Electronic Information and Communication
+    university: Huzhong Univ. of Sci & Tech
     time: 2007 - 2011
-    details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
+    #details: |
+    
 
 experiences:
   title: Experiences
