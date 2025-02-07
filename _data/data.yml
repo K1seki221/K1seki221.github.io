@@ -204,16 +204,13 @@ oss:
     tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
-  title: Publications
-  intro: |
-    You can list your publications in this section. Lorem ipsum dolor sit
-    amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-    bibendum fringilla a eu lectus.
+  title: Selected Publications
+  #intro: |
   papers:
-  - title: The Art of Computer Programming
-    link: "#"
-    authors: Donald E. Knuth
-    conference: Addison-Wesley, 1968
+  - title: "How Sparse Can We Prune A Deep Network: A Fundamental Limit Perspective"
+    link: "https://openreview.net/pdf?id=IAAPhOLhcX"
+    #authors: Donald E. Knuth
+    #conference: Addison-Wesley, 1968
 
   - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
     link: "#"
