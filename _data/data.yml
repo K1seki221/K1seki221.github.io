@@ -62,8 +62,10 @@ career-profile:
   title: Research Interests
   summary: |
     My research interests are centered on efficient machine learning systems, AI for science, and the underlying mathematical foundations that support these domains. 
+    |
     I have had the privilege of working alongside Professor Xinggang Wang and Professor Jun Sun since the onset of my first year at Huazhong University of Science and Technology. 
-    Currently, I am working with Professor Zheng Zhang, focusing on efficient pretrain for LLMs and Large Vision models.
+    |
+    Currently, I am working with Professor Zheng Zhang @ UCSB, focusing on efficient pretrain for LLMs and Large Vision models.
 education:
   title: Education
   info:
